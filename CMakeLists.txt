@@ -3,5 +3,5 @@ project(Dinar)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES lab1.cpp)
+set(SOURCE_FILES lab2.cpp)
 add_executable(Dinar ${SOURCE_FILES})
